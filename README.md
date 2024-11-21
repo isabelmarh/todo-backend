@@ -51,14 +51,15 @@ This project includes unit tests for backend routes.
 
 ```
 npm test
-````
+```
 ### Project Structure
-.
-├── server.js               # Express.js server
-├── tests/                  # Unit tests for backend routes
-├── jest.setup.js           # Jest setup file
-├── package.json            # Dependencies and scripts
-├── .env                    # Environment variables (not committed)
-└── firebaseServiceAccount.json  # Firebase service account key (not committed)
+```
 
+├── server.js                 # Express.js server
+├── tests/                    # Unit tests for backend routes
+├── jest.setup.js             # Jest setup file
+├── package.json              # Dependencies and scripts
+├── .env                      # Environment variables (not committed)
+└── firebaseServiceAccount.json # Firebase service account key (not committed)
 
+```
